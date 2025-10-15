@@ -1,1 +1,0 @@
-SELECT COUNT(titulo) FROM livros;
